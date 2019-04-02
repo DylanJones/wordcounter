@@ -1,0 +1,6 @@
+# apparently IRC logs are sensitive?
+*tjhsst*
+
+# actually screw it, just remove all text files
+*.txt
+*.log
